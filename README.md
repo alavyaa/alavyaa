@@ -1,6 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Alavya 👋<br><br>Full-Stack Developer passionate about building practical software and learning through real-world projects.<br><br>
-## 🚀 Currently Building<br><br>- Alavket — Productivity & Lifestyle Tracking Platform<br><br>
+## 🚀 Currently Building<br><br>
+- Alavket — Productivity & Lifestyle Tracking Platform<br><br>
 
 
 ## 🌐 Socials:
