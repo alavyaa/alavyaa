@@ -75,7 +75,7 @@ Building.
 
 ## ✨ Featured Work
 
-### 🌙 Portfolio
+### Portfolio
 
 A premium personal portfolio inspired by luxury design, immersive interactions, and thoughtful user experiences.
 
@@ -83,14 +83,20 @@ A premium personal portfolio inspired by luxury design, immersive interactions, 
 
 ---
 
-### 🏁 Debug Race
+### Debug Race
 
 A collaborative debugging platform designed to make problem-solving competitive, engaging, and fun.
 
 🔗 Repository: https://github.com/alavyaa/Debug-Race
 
 ---
+### Currently Building
 
+Alavket (In Active Development)
+
+A productivity and lifestyle tracking platform focused on consistency, goals, analytics, and meaningful progress.
+
+🚧 Not publicly featured yet.
 
 <div align="center">
 
