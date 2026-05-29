@@ -73,6 +73,28 @@ Building.
 
 ────────────── ❀ ──────────────
 
+## ✨ Featured Work
+
+### 🌙 Portfolio
+
+A premium personal portfolio inspired by luxury design, immersive interactions, and thoughtful user experiences.
+
+🔗 Repository: https://github.com/alavyaa/PORTFOLIO
+
+---
+
+### 🏁 Debug Race
+
+A collaborative debugging platform designed to make problem-solving competitive, engaging, and fun.
+
+🔗 Repository: https://github.com/alavyaa/Debug-Race
+
+---
+
+
+<div align="center">
+
+────────────── ❀ ──────────────
 ## 📊 GitHub Analytics
 
 <p align="center">
