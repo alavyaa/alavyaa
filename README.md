@@ -10,26 +10,22 @@
 
 ────────────── ❀ ──────────────
 
-</div>
-
 ## ⌘ whoami
 
-> name
+$ name
 Alavya
 
-> role
+$ role
 Full Stack Developer
 
-> currently_building
+$ currently_building
 Alavket
 
-> currently_learning
+$ currently_learning
 React • Node.js
 
-> status
+$ status
 Building.
-
-<div align="center">
 
 ────────────── ❀ ──────────────
 
@@ -39,21 +35,13 @@ Building.
 
 ---
 
-### Then Current Focus
-
 ## Current Focus
 
-┌──────────────────────────────┐
-│ BUILDING                     │
-│ → Alavket                    │
-├──────────────────────────────┤
-│ LEARNING                     │
-│ → React                      │
-│ → Node.js                    │
-├──────────────────────────────┤
-│ NEXT GOAL                    │
-│ → __________                 │
-└──────────────────────────────┘
+| Category | Focus |
+|----------|-------|
+| Building | Alavket |
+| Learning | React, Node.js |
+| Next Goal | ML |
 
 <div align="center">
 
@@ -62,14 +50,39 @@ Building.
 </div>
 
 
-## ⚒ Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,react,nodejs,mongodb,mysql,git,github,figma,vscode" />
-</p>
-
+## ⚡ Tech Stack
 
 <div align="center">
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools And Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
+</p>
 
 ────────────────────────────
 
