@@ -12,7 +12,8 @@
 
 ## ⌘ whoami
 
-$ name
+```bash
+$ whoami
 Alavya
 
 $ role
@@ -26,7 +27,7 @@ React • Node.js
 
 $ status
 Building.
-
+```
 ────────────── ❀ ──────────────
 
 </div>
