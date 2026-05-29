@@ -41,13 +41,13 @@ Building.
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend
@@ -59,7 +59,7 @@ Building.
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools And Platforms
