@@ -68,6 +68,18 @@ Building.
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
 </p>
 
+
+<div align="center">
+
+────────────── ❀ ──────────────
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alavyaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=alavyaa&theme=transparent&hide_border=true" />
+</p>
+
 ────────────────────────────
 
 Some ideas become projects.
