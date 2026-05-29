@@ -17,7 +17,7 @@ $ whoami
 Alavya
 
 $ role
-Full Stack Developer
+Data Analyst And Developer 
 
 $ currently_building
 Alavket
@@ -28,23 +28,6 @@ React • Node.js
 $ status
 Building.
 ```
-────────────── ❀ ──────────────
-
-</div>
-
-
-
----
-
-## Current Focus
-
-| Category | Focus |
-|----------|-------|
-| Building | Alavket |
-| Learning | React, Node.js |
-| Next Goal | ML |
-
-<div align="center">
 
 ────────────── ❀ ──────────────
 
