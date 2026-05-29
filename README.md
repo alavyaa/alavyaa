@@ -80,6 +80,15 @@ Building.
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=alavyaa&theme=transparent&hide_border=true" />
 </p>
 
+<div align="center">
+
+────────────── ❀ ──────────────
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alavyaa/alavyaa/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 ────────────────────────────
 
 Some ideas become projects.
