@@ -10,7 +10,7 @@
 
 ────────────── ❀ ──────────────
 
-## ⌘ whoami
+## ✧ Identity Log
 
 ```bash
 $ whoami
@@ -34,7 +34,7 @@ Building.
 </div>
 
 
-## ⚡ Tech Stack
+## ✦ Forged With
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Building.
 
 ────────────── ❀ ──────────────
 
-## ✨ Featured Work
+## 🜂 Projects & Pursuits
 
 ### Portfolio
 
@@ -102,14 +102,26 @@ A productivity and lifestyle tracking platform focused on consistency, goals, an
 <div align="center">
 
 ────────────── ❀ ──────────────
-## 📊 GitHub Analytics
+## ✦ Chronicle of Consistency
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alavyaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=2" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=alavyaa&theme=transparent&hide_border=true&v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alavyaa&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=alavyaa&theme=transparent&hide_border=true" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alavyaa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alavyaa&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alavyaa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alavyaa&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alavyaa&theme=github_dark" />
+</p>
 
 ────────────── ❀ ──────────────
 
@@ -120,9 +132,9 @@ A productivity and lifestyle tracking platform focused on consistency, goals, an
 </div>
 ────────────────────────────
 
-Some ideas become projects.
+Every contribution leaves a trace.
 
-I'm working on those.
+The story continues below.
 
 ────────────────────────────
 
