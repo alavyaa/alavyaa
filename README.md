@@ -90,13 +90,6 @@ A collaborative debugging platform designed to make problem-solving competitive,
 🔗 Repository: https://github.com/alavyaa/Debug-Race
 
 ---
-### Smash Kart
-
-A fast-paced 3D kart racing game focused on smooth controls, exciting tracks, and arcade-style gameplay. Built to explore game development concepts including physics, race systems, and immersive player experiences.
-
-🔗 Repository: https://github.com/alavyaa/Smash-Kart
-
----
 
 ### Currently Building
 
