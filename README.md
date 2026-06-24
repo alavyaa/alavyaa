@@ -96,17 +96,6 @@ A competitive 3D racing experience built with Unity, featuring dynamic kart mech
 
 🔗 Repository: https://github.com/alavyaa/kart-racing-game
 
----
-
-### Currently Building
-
-Alavket (In Active Development)
-
-A productivity and lifestyle tracking platform focused on consistency, goals, analytics, and meaningful progress.
-
-🚧 Not publicly featured yet.
-
-<div align="center">
 
 ────────────── ❀ ──────────────
 ## ✦ Chronicle of Consistency
