@@ -94,7 +94,7 @@ A collaborative debugging platform designed to make problem-solving competitive,
 ### Kart Racing Game
 A competitive 3D racing experience built with Unity, featuring dynamic kart mechanics, AI-driven opponents, lap tracking, boost systems, and immersive racing environments.
 
-🔗 Repository: https://github.com/alavyaa/<your-repo-name>
+🔗 Repository: https://github.com/alavyaa/kart-racing-game
 
 ---
 
